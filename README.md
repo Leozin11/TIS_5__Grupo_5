@@ -5,7 +5,7 @@ O objetivo deste projeto é desenvolver um aplicativo web de gerenciamento de No
 ## Integrantes
 
 * Lucas Fellippe Alves Pereira
-* Nome completo do aluno 2
+* Rafael Augusto Vieira De Almeida
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
